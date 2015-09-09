@@ -9,6 +9,8 @@ Because an accelerometer is used and not a gyroscope, this app is only accurate 
 
 This app only works on the Pebble Time (basalt platform), not the original Pebble.
 
+![](https://raw.githubusercontent.com/davidfg4/pebble-attitude-indicator/master/Screenshot.png "Screenshot 1")
+
 Install
 -------
 
